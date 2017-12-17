@@ -1,0 +1,18 @@
+git init filename
+cd filename
+gedit README
+git add readme
+git commit -m "message"
+create repository online on github
+git remote add origin https://github.com/Ashree123/filename.git
+git push origin master
+
+
+
+
+
+for cloning
+git clone https://github.com/Ashree123/filename
+
+
+
